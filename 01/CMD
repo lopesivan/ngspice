@@ -1,0 +1,1 @@
+ gnetlist -g spice -o rcSIN.net rcSIN.sch
